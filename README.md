@@ -68,7 +68,7 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 <img width="1280" height="315" alt="7b329415-df52-44ae-93c2-a0821b4a5449" src="https://github.com/user-attachments/assets/8e5ab57e-fc12-4817-babf-7c45523abbc4" />
 
 
-## MODEL GRAPH
+## GRAPH
 <img width="1600" height="865" alt="358b4160-25ac-42cf-82de-848133d2f150" src="https://github.com/user-attachments/assets/37490c6d-f9cf-434f-b778-1c8ca5f6b008" />
 
 ## RESULT
