@@ -61,21 +61,16 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 
 ## TABULATION
 
-| Sl. No. | SIGNAL                 | AMPLITUDE (V) | FREQUENCY (Hz) |
-| ------- | ---------------------- | ------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical** |                |
-|         |                        | **Emax =**    |                |
-|         |                        | **Emin =**    |                |
-| **4**   | **Demodulated Signal** | **Practical** |                |
+<img width="1280" height="796" alt="c1c3bc97-0d5f-431b-bf5b-0f7b46278057" src="https://github.com/user-attachments/assets/537a42dc-8f46-4f6a-b973-119babefe4a9" />
 
----
+
+## CALCULATION
+<img width="1280" height="315" alt="7b329415-df52-44ae-93c2-a0821b4a5449" src="https://github.com/user-attachments/assets/8e5ab57e-fc12-4817-babf-7c45523abbc4" />
+
 
 ## MODEL GRAPH
+<img width="1600" height="865" alt="358b4160-25ac-42cf-82de-848133d2f150" src="https://github.com/user-attachments/assets/37490c6d-f9cf-434f-b778-1c8ca5f6b008" />
 
+## RESULT
+<img width="1156" height="867" alt="481264ae-eee7-40bc-b3b6-dfe2e49867b3" src="https://github.com/user-attachments/assets/e8999efe-c677-4f6f-bb3d-1c6915f4a5c6" />
 
